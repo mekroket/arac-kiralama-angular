@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Data, Router } from '@angular/router';
-import { stringify } from 'querystring';
 import { Uye } from 'src/app/models/uye';
 import { DataService } from 'src/app/services/data.service';
 
